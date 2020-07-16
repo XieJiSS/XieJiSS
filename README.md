@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m currently working from home.
+
+![Stats about my GitHub profile](https://github-readme-stats.vercel.app/api?username=XieJiSS&show_icons=true&title_color=f3f3f3&icon_color=65d363&text_color=ccc&bg_color=111)
+
+
+
 <!--
 **XieJiSS/XieJiSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
