@@ -6,4 +6,6 @@ I’m currently working from home.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XieJiSS&langs_count=8&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=XieJiSS&column=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=XieJiSS&rank=-B)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=XieJiSS)
