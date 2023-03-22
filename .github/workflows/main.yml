@@ -48,8 +48,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.recent_language.svg
           user: XieJiSS
+          base: ""
           config_timezone: Asia/Shanghai
           plugin_languages: yes
           plugin_languages_sections: recently-used
           plugin_languages_recent_load: 400
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 180
+          plugin_languages_analysis_timeout: 30
