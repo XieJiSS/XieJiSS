@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently working from home. My base cities are Hangzhou & Beijing.
+My base cities are Hangzhou & Beijing.
 
 ![Stats about my GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XieJiSS&theme=default)
 
