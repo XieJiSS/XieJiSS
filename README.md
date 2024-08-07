@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-My base cities are Hangzhou & Beijing.
-
 ![Stats about my GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XieJiSS&theme=default)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=XieJiSS&column=7&rank=-B)
